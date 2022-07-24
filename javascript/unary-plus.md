@@ -1,6 +1,6 @@
 # Unary plus (+)
 
-O operador de mais unário tenta converter o operando em um número, caso já não seja. É equivalente à função `parseInt()`.
+O operador de soma unário tenta converter o operando em um número, caso já não seja. É semelhante à função `parseInt()`, porém o operador de soma unário converte valores NaN em 0, e a função não.
 
 ```javascript
 const x = 1;
