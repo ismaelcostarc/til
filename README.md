@@ -15,3 +15,4 @@ Uma coleção de pequenos conhecimentos que vou adquirindo durante o dia em dive
 ### Javascript
 
 - [Nullish Coalescing](javascript/nullish-coalescing.md)
+- [Unary Plus](javascript/unary-plus.md)
